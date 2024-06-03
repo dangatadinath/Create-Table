@@ -1,0 +1,23 @@
+table,tr,td,th{
+   border-color: black;
+   border-collapse: collapse;
+   border-style: none;
+   border: 1px solid black;
+
+
+}
+th{
+    font-size: 25px;
+    text-align: center;
+    background-color: aquamarine;
+}
+td{
+    font-size: 20px;
+    size:auto;
+    size-adjust: 20px;
+    text-align: center;
+
+}
+h1{
+    text-align: center;
+}
